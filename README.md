@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MohdSaif2884/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/MohdSaif2884/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/MohdSaif2884/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/MohdSaif2884/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MohdSaif2884/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/MohdSaif2884/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,4 +62,12 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/MohdSaif2884/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/MohdSaif2884/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
