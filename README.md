@@ -94,6 +94,7 @@
 | [0130-surrounded-regions](https://github.com/MohdSaif2884/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MohdSaif2884/DSA/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/MohdSaif2884/DSA/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/MohdSaif2884/DSA/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/MohdSaif2884/DSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/MohdSaif2884/DSA/tree/master/0785-is-graph-bipartite) |
@@ -136,9 +137,11 @@
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
