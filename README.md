@@ -60,6 +60,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/MohdSaif2884/DSA/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/MohdSaif2884/DSA/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/MohdSaif2884/DSA/tree/master/0886-possible-bipartition) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MohdSaif2884/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/MohdSaif2884/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
@@ -95,6 +96,7 @@
 | [0463-island-perimeter](https://github.com/MohdSaif2884/DSA/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/MohdSaif2884/DSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/MohdSaif2884/DSA/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/MohdSaif2884/DSA/tree/master/0886-possible-bipartition) |
 | [1905-count-sub-islands](https://github.com/MohdSaif2884/DSA/tree/master/1905-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -105,6 +107,7 @@
 | [0463-island-perimeter](https://github.com/MohdSaif2884/DSA/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/MohdSaif2884/DSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/MohdSaif2884/DSA/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/MohdSaif2884/DSA/tree/master/0886-possible-bipartition) |
 | [1905-count-sub-islands](https://github.com/MohdSaif2884/DSA/tree/master/1905-count-sub-islands) |
 ## Union-Find
 |  |
@@ -113,6 +116,7 @@
 | [0200-number-of-islands](https://github.com/MohdSaif2884/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/MohdSaif2884/DSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/MohdSaif2884/DSA/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/MohdSaif2884/DSA/tree/master/0886-possible-bipartition) |
 | [1905-count-sub-islands](https://github.com/MohdSaif2884/DSA/tree/master/1905-count-sub-islands) |
 ## Matrix
 |  |
