@@ -101,6 +101,7 @@
 | [0814-binary-tree-pruning](https://github.com/MohdSaif2884/DSA/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/MohdSaif2884/DSA/tree/master/0886-possible-bipartition) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/MohdSaif2884/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1905-count-sub-islands](https://github.com/MohdSaif2884/DSA/tree/master/1905-count-sub-islands) |
 ## Breadth-First Search
@@ -142,6 +143,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/MohdSaif2884/DSA/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/MohdSaif2884/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
@@ -149,5 +151,6 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/MohdSaif2884/DSA/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/MohdSaif2884/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->
