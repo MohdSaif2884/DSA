@@ -113,6 +113,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/MohdSaif2884/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/MohdSaif2884/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1905-count-sub-islands](https://github.com/MohdSaif2884/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MohdSaif2884/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -128,6 +129,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/MohdSaif2884/DSA/tree/master/0886-possible-bipartition) |
 | [0993-cousins-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/MohdSaif2884/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1905-count-sub-islands](https://github.com/MohdSaif2884/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MohdSaif2884/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -161,6 +163,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/MohdSaif2884/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/MohdSaif2884/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -171,6 +174,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/MohdSaif2884/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/MohdSaif2884/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Sliding Window
 |  |
