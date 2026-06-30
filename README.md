@@ -74,6 +74,7 @@
 | [0841-keys-and-rooms](https://github.com/MohdSaif2884/DSA/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/MohdSaif2884/DSA/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/MohdSaif2884/DSA/tree/master/0997-find-the-town-judge) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/MohdSaif2884/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/MohdSaif2884/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MohdSaif2884/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MohdSaif2884/DSA/tree/master/1971-find-if-path-exists-in-graph) |
