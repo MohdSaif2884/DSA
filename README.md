@@ -57,6 +57,7 @@
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MohdSaif2884/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdSaif2884/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/MohdSaif2884/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdSaif2884/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/MohdSaif2884/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -147,6 +148,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/MohdSaif2884/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/MohdSaif2884/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MohdSaif2884/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/MohdSaif2884/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/MohdSaif2884/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MohdSaif2884/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -169,6 +172,7 @@
 | [1254-number-of-closed-islands](https://github.com/MohdSaif2884/DSA/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MohdSaif2884/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/MohdSaif2884/DSA/tree/master/1905-count-sub-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -207,4 +211,9 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/MohdSaif2884/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
