@@ -1,47 +1,52 @@
- class Solution {
+class Solution {
 public:
-    double maxProbability(int n, vector<vector<int>>& edges,
-                          vector<double>& succProb,
-                          int start_node, int end_node) {
+    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start_node, int end_node) {
 
-        vector<pair<int,double>> adj[n];
+        vector<double>dis(n ,0.0);
+        dis[start_node] =1;
+        priority_queue<pair<double, int>> q;
+    vector<pair< int, double>>adj[n];
+        
+        for(int i =0 ;i<edges.size(); i++){
+            int u = edges[i][0];
+            int v = edges[i][1];
 
-        for(int i=0;i<edges.size();i++){
-            int u=edges[i][0];
-            int v=edges[i][1];
-            double w=succProb[i];
+            double w = succProb[i];
 
-            adj[u].push_back({v,w});
+            adj[u].push_back({v, w});
             adj[v].push_back({u,w});
         }
 
-        vector<double> dis(n,0.0);
-        dis[start_node]=1.0;
+        // vector<int>vis(n , -1);
+        // vector<int>dis(n , INT_MAX);
+        dis[start_node] =1.0;
 
-        priority_queue<pair<double,int>> pq;
-        pq.push({1.0,start_node});
+        q.push({1.0,start_node});
+        while(!q.empty()){
+            auto e = q.top();
+            q.pop();
+             double p = e.first;
+             int u = e.second;
 
-        while(!pq.empty()){
+             if(u == end_node){
+                return p;
+             }
+            //  if()
 
-            auto [prob,node]=pq.top();
-            pq.pop();
-
-            if(node==end_node)
-                return prob;
-
-            if(prob < dis[node])
-                continue;
-
-            for(auto [nei,p]:adj[node]){
-
-                if(dis[nei] < prob*p){
-
-                    dis[nei]=prob*p;
-                    pq.push({dis[nei],nei});
+            for(auto v: adj[u]){
+                int nei = v.first;
+                double newp = v.second;
+                if(dis[nei] < newp * p){
+                    dis[nei] = newp*p;
+                    q.push({p*newp,nei  });
                 }
-            }
-        }
 
-        return 0.0;
+                
+            }     
+        }
+        return 0;
+
+
+        
     }
 };
