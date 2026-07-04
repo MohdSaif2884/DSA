@@ -53,6 +53,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/MohdSaif2884/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0997-find-the-town-judge](https://github.com/MohdSaif2884/DSA/tree/master/0997-find-the-town-judge) |
 | [1254-number-of-closed-islands](https://github.com/MohdSaif2884/DSA/tree/master/1254-number-of-closed-islands) |
+| [1514-path-with-maximum-probability](https://github.com/MohdSaif2884/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MohdSaif2884/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/MohdSaif2884/DSA/tree/master/1905-count-sub-islands) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MohdSaif2884/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -80,6 +81,7 @@
 | [0841-keys-and-rooms](https://github.com/MohdSaif2884/DSA/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/MohdSaif2884/DSA/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/MohdSaif2884/DSA/tree/master/0997-find-the-town-judge) |
+| [1514-path-with-maximum-probability](https://github.com/MohdSaif2884/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/MohdSaif2884/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/MohdSaif2884/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MohdSaif2884/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -112,6 +114,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [1514-path-with-maximum-probability](https://github.com/MohdSaif2884/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/MohdSaif2884/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/MohdSaif2884/DSA/tree/master/3620-network-recovery-pathways) |
@@ -230,6 +233,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1514-path-with-maximum-probability](https://github.com/MohdSaif2884/DSA/tree/master/1514-path-with-maximum-probability) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/MohdSaif2884/DSA/tree/master/3620-network-recovery-pathways) |
