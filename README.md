@@ -27,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/MohdSaif2884/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MohdSaif2884/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/MohdSaif2884/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/MohdSaif2884/DSA/tree/master/3620-network-recovery-pathways) |
@@ -52,6 +53,7 @@
 | [0463-island-perimeter](https://github.com/MohdSaif2884/DSA/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/MohdSaif2884/DSA/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/MohdSaif2884/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/MohdSaif2884/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0997-find-the-town-judge](https://github.com/MohdSaif2884/DSA/tree/master/0997-find-the-town-judge) |
 | [1254-number-of-closed-islands](https://github.com/MohdSaif2884/DSA/tree/master/1254-number-of-closed-islands) |
 | [1514-path-with-maximum-probability](https://github.com/MohdSaif2884/DSA/tree/master/1514-path-with-maximum-probability) |
