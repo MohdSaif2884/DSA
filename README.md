@@ -28,6 +28,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/MohdSaif2884/DSA/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/MohdSaif2884/DSA/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/MohdSaif2884/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MohdSaif2884/DSA/tree/master/0213-house-robber-ii) |
@@ -53,6 +54,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/MohdSaif2884/DSA/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/MohdSaif2884/DSA/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/MohdSaif2884/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/MohdSaif2884/DSA/tree/master/0200-number-of-islands) |
@@ -248,4 +250,8 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/MohdSaif2884/DSA/tree/master/3620-network-recovery-pathways) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/MohdSaif2884/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
