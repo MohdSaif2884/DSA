@@ -8,6 +8,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/MohdSaif2884/DSA/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdSaif2884/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/MohdSaif2884/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdSaif2884/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdSaif2884/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -68,6 +69,7 @@
 | [0997-find-the-town-judge](https://github.com/MohdSaif2884/DSA/tree/master/0997-find-the-town-judge) |
 | [1219-path-with-maximum-gold](https://github.com/MohdSaif2884/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/MohdSaif2884/DSA/tree/master/1254-number-of-closed-islands) |
+| [1331-rank-transform-of-an-array](https://github.com/MohdSaif2884/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/MohdSaif2884/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MohdSaif2884/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/MohdSaif2884/DSA/tree/master/1905-count-sub-islands) |
@@ -273,4 +275,8 @@
 | [0079-word-search](https://github.com/MohdSaif2884/DSA/tree/master/0079-word-search) |
 | [0797-all-paths-from-source-to-target](https://github.com/MohdSaif2884/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1219-path-with-maximum-gold](https://github.com/MohdSaif2884/DSA/tree/master/1219-path-with-maximum-gold) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/MohdSaif2884/DSA/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
