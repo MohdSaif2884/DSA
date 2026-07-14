@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/MohdSaif2884/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/MohdSaif2884/DSA/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/MohdSaif2884/DSA/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/MohdSaif2884/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MohdSaif2884/DSA/tree/master/0213-house-robber-ii) |
@@ -51,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/MohdSaif2884/DSA/tree/master/0062-unique-paths) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/MohdSaif2884/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MohdSaif2884/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -287,4 +289,8 @@
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/MohdSaif2884/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MohdSaif2884/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
