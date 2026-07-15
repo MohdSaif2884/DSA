@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MohdSaif2884/DSA/tree/master/0062-unique-paths) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MohdSaif2884/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/MohdSaif2884/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MohdSaif2884/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -304,4 +305,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MohdSaif2884/DSA/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MohdSaif2884/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
