@@ -81,6 +81,7 @@
 | [0997-find-the-town-judge](https://github.com/MohdSaif2884/DSA/tree/master/0997-find-the-town-judge) |
 | [1219-path-with-maximum-gold](https://github.com/MohdSaif2884/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/MohdSaif2884/DSA/tree/master/1254-number-of-closed-islands) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MohdSaif2884/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdSaif2884/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/MohdSaif2884/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1514-path-with-maximum-probability](https://github.com/MohdSaif2884/DSA/tree/master/1514-path-with-maximum-probability) |
