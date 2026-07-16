@@ -93,6 +93,7 @@
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MohdSaif2884/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdSaif2884/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/MohdSaif2884/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/MohdSaif2884/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdSaif2884/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -294,6 +295,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/MohdSaif2884/DSA/tree/master/0055-jump-game) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/MohdSaif2884/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
 |  |
 | ------- |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/MohdSaif2884/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/MohdSaif2884/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -316,4 +319,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohdSaif2884/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/MohdSaif2884/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
