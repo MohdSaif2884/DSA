@@ -19,6 +19,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdSaif2884/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/MohdSaif2884/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/MohdSaif2884/DSA/tree/master/0091-decode-ways) |
+| [0925-long-pressed-name](https://github.com/MohdSaif2884/DSA/tree/master/0925-long-pressed-name) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdSaif2884/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdSaif2884/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdSaif2884/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -325,5 +326,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0925-long-pressed-name](https://github.com/MohdSaif2884/DSA/tree/master/0925-long-pressed-name) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MohdSaif2884/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
