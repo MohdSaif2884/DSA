@@ -36,6 +36,7 @@
 | [0062-unique-paths](https://github.com/MohdSaif2884/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/MohdSaif2884/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/MohdSaif2884/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/MohdSaif2884/DSA/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/MohdSaif2884/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/MohdSaif2884/DSA/tree/master/0198-house-robber) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MohdSaif2884/DSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/MohdSaif2884/DSA/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdSaif2884/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MohdSaif2884/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohdSaif2884/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -337,4 +339,8 @@
 | ------- |
 | [0925-long-pressed-name](https://github.com/MohdSaif2884/DSA/tree/master/0925-long-pressed-name) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MohdSaif2884/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MohdSaif2884/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
