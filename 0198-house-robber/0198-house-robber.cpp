@@ -1,24 +1,32 @@
 class Solution {
 public:
-int solve(vector<int>&nums, vector<int>&dp, int i, int n){
-    if(i >=n ){
-        return 0;
-    }
-    if(dp[i] !=-1){
-        return dp[i];
-    }
-int pick = solve(nums, dp, i+2, n)+ nums[i];
-int skip = solve(nums, dp , i+1, n);
+int n ;
+int f(int i ,   vector<int>&dp, vector<int>& nums ){
 
-return dp[i] = max(pick, skip);
+if(i ==0){
+    return nums[0];
+}
+if(i <0){
+    return 0;
+}
+if(dp[i] !=-1){
+    return dp[i];
+}
+   int skip = f(i-1,dp, nums);
+   int take = -1e8;
+   if(i >0){
+    take = f(i-2, dp, nums) + nums[i];
+   }
 
-    return dp[i] = max(pick , skip);
+   return dp[i] = max(skip , take);
+
 }
     int rob(vector<int>& nums) {
-        int n = nums.size();
+         n = nums.size();
         vector<int>dp(n+1, -1);
-        return solve(nums, dp, 0, n);
-        // return max(solve(nums, dp , n -1), solve(nums, dp , n-2));
+return f(n-1,dp,nums);
+        
+        
         
     }
 };
