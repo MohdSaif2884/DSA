@@ -101,6 +101,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/MohdSaif2884/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/MohdSaif2884/DSA/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0922-sort-array-by-parity-ii](https://github.com/MohdSaif2884/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdSaif2884/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/MohdSaif2884/DSA/tree/master/0997-find-the-town-judge) |
@@ -334,6 +335,7 @@
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/MohdSaif2884/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/MohdSaif2884/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdSaif2884/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MohdSaif2884/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search Tree
@@ -353,6 +355,7 @@
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/MohdSaif2884/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/MohdSaif2884/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/MohdSaif2884/DSA/tree/master/0925-long-pressed-name) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MohdSaif2884/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Memoization
