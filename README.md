@@ -126,6 +126,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MohdSaif2884/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdSaif2884/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3151-special-array-i](https://github.com/MohdSaif2884/DSA/tree/master/3151-special-array-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/MohdSaif2884/DSA/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MohdSaif2884/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
