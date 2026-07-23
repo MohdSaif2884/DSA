@@ -195,6 +195,7 @@
 | [0079-word-search](https://github.com/MohdSaif2884/DSA/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/MohdSaif2884/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MohdSaif2884/DSA/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/MohdSaif2884/DSA/tree/master/0210-course-schedule-ii) |
@@ -225,6 +226,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/MohdSaif2884/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MohdSaif2884/DSA/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/MohdSaif2884/DSA/tree/master/0210-course-schedule-ii) |
@@ -289,6 +291,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/MohdSaif2884/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/MohdSaif2884/DSA/tree/master/0814-binary-tree-pruning) |
@@ -304,6 +307,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/MohdSaif2884/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/MohdSaif2884/DSA/tree/master/0814-binary-tree-pruning) |
