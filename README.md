@@ -253,6 +253,7 @@
 | [1254-number-of-closed-islands](https://github.com/MohdSaif2884/DSA/tree/master/1254-number-of-closed-islands) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/MohdSaif2884/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MohdSaif2884/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1609-even-odd-tree](https://github.com/MohdSaif2884/DSA/tree/master/1609-even-odd-tree) |
 | [1905-count-sub-islands](https://github.com/MohdSaif2884/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MohdSaif2884/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MohdSaif2884/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -319,6 +320,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/MohdSaif2884/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/MohdSaif2884/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1609-even-odd-tree](https://github.com/MohdSaif2884/DSA/tree/master/1609-even-odd-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -342,6 +344,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/MohdSaif2884/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/MohdSaif2884/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1609-even-odd-tree](https://github.com/MohdSaif2884/DSA/tree/master/1609-even-odd-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Sliding Window
 |  |
