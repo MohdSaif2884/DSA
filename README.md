@@ -54,6 +54,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/MohdSaif2884/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MohdSaif2884/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/MohdSaif2884/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/MohdSaif2884/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -112,6 +113,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdSaif2884/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/MohdSaif2884/DSA/tree/master/0997-find-the-town-judge) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MohdSaif2884/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1219-path-with-maximum-gold](https://github.com/MohdSaif2884/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/MohdSaif2884/DSA/tree/master/1254-number-of-closed-islands) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MohdSaif2884/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
