@@ -57,6 +57,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MohdSaif2884/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/MohdSaif2884/DSA/tree/master/1463-cherry-pickup-ii) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MohdSaif2884/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/MohdSaif2884/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MohdSaif2884/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/MohdSaif2884/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -122,6 +123,7 @@
 | [1514-path-with-maximum-probability](https://github.com/MohdSaif2884/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MohdSaif2884/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/MohdSaif2884/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MohdSaif2884/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1905-count-sub-islands](https://github.com/MohdSaif2884/DSA/tree/master/1905-count-sub-islands) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/MohdSaif2884/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MohdSaif2884/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
