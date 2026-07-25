@@ -51,6 +51,7 @@
 | [0213-house-robber-ii](https://github.com/MohdSaif2884/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/MohdSaif2884/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MohdSaif2884/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/MohdSaif2884/DSA/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/MohdSaif2884/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/MohdSaif2884/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -106,6 +107,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/MohdSaif2884/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/MohdSaif2884/DSA/tree/master/0463-island-perimeter) |
 | [0523-continuous-subarray-sum](https://github.com/MohdSaif2884/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/MohdSaif2884/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/MohdSaif2884/DSA/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/MohdSaif2884/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0740-delete-and-earn](https://github.com/MohdSaif2884/DSA/tree/master/0740-delete-and-earn) |
@@ -254,6 +256,7 @@
 | [0322-coin-change](https://github.com/MohdSaif2884/DSA/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/MohdSaif2884/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/MohdSaif2884/DSA/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/MohdSaif2884/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/MohdSaif2884/DSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/MohdSaif2884/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/MohdSaif2884/DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -296,6 +299,7 @@
 | [0130-surrounded-regions](https://github.com/MohdSaif2884/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MohdSaif2884/DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/MohdSaif2884/DSA/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/MohdSaif2884/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/MohdSaif2884/DSA/tree/master/0695-max-area-of-island) |
 | [0931-minimum-falling-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/MohdSaif2884/DSA/tree/master/1162-as-far-from-land-as-possible) |
