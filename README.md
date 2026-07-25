@@ -14,6 +14,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/MohdSaif2884/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdSaif2884/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/MohdSaif2884/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1695-maximum-erasure-value](https://github.com/MohdSaif2884/DSA/tree/master/1695-maximum-erasure-value) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MohdSaif2884/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2295-replace-elements-in-an-array](https://github.com/MohdSaif2884/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdSaif2884/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -123,6 +124,7 @@
 | [1514-path-with-maximum-probability](https://github.com/MohdSaif2884/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MohdSaif2884/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/MohdSaif2884/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1695-maximum-erasure-value](https://github.com/MohdSaif2884/DSA/tree/master/1695-maximum-erasure-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MohdSaif2884/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1905-count-sub-islands](https://github.com/MohdSaif2884/DSA/tree/master/1905-count-sub-islands) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/MohdSaif2884/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -359,6 +361,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdSaif2884/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/MohdSaif2884/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdSaif2884/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1695-maximum-erasure-value](https://github.com/MohdSaif2884/DSA/tree/master/1695-maximum-erasure-value) |
 ## Binary Search
 |  |
 | ------- |
