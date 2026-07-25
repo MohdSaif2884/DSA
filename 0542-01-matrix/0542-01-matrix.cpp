@@ -18,7 +18,9 @@ int dx[4] ={0,0,1,-1};
 int dy[4] = {1, -1, 0,0};
         while(!q.empty()){
 
-             
+            int size= q.size();
+
+            for(int i =0 ; i<size; i++){
                 auto f = q.front();
                 q.pop();
                 int x = f.first;
@@ -28,13 +30,13 @@ int dy[4] = {1, -1, 0,0};
                     int nx = x+ dx[d];
                     int ny = y + dy[d];
 
-                    if(nx<n && ny <m && nx>=0 && ny >=0 &&dis[nx][ny] == -1){
+                    if(nx<n && ny <m && nx>=0 && ny >=0&& dis[nx][ny] == -1){
                         q.push({nx, ny});
                         dis[nx][ny] =  dis[x][y]+1;
 
                     }
                 }
-            
+            }
 
 
         }
