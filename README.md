@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MohdSaif2884/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/MohdSaif2884/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/MohdSaif2884/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -225,6 +226,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/MohdSaif2884/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MohdSaif2884/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/MohdSaif2884/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0687-longest-univalue-path](https://github.com/MohdSaif2884/DSA/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/MohdSaif2884/DSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/MohdSaif2884/DSA/tree/master/0785-is-graph-bipartite) |
@@ -335,6 +337,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/MohdSaif2884/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MohdSaif2884/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/MohdSaif2884/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0687-longest-univalue-path](https://github.com/MohdSaif2884/DSA/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/MohdSaif2884/DSA/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
