@@ -84,6 +84,7 @@
 | [0062-unique-paths](https://github.com/MohdSaif2884/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MohdSaif2884/DSA/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/MohdSaif2884/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MohdSaif2884/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdSaif2884/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MohdSaif2884/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MohdSaif2884/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -108,6 +109,7 @@
 | [0463-island-perimeter](https://github.com/MohdSaif2884/DSA/tree/master/0463-island-perimeter) |
 | [0523-continuous-subarray-sum](https://github.com/MohdSaif2884/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/MohdSaif2884/DSA/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MohdSaif2884/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/MohdSaif2884/DSA/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/MohdSaif2884/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0740-delete-and-earn](https://github.com/MohdSaif2884/DSA/tree/master/0740-delete-and-earn) |
@@ -411,6 +413,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/MohdSaif2884/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/MohdSaif2884/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MohdSaif2884/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdSaif2884/DSA/tree/master/1331-rank-transform-of-an-array) |
