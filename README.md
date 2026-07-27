@@ -32,6 +32,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/MohdSaif2884/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdSaif2884/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdSaif2884/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/MohdSaif2884/DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdSaif2884/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
@@ -77,6 +78,7 @@
 | [0523-continuous-subarray-sum](https://github.com/MohdSaif2884/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/MohdSaif2884/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdSaif2884/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/MohdSaif2884/DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/MohdSaif2884/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2270-number-of-ways-to-split-array](https://github.com/MohdSaif2884/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2485-find-the-pivot-integer](https://github.com/MohdSaif2884/DSA/tree/master/2485-find-the-pivot-integer) |
