@@ -78,6 +78,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/MohdSaif2884/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdSaif2884/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/MohdSaif2884/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [2270-number-of-ways-to-split-array](https://github.com/MohdSaif2884/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MohdSaif2884/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/MohdSaif2884/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -147,6 +148,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdSaif2884/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/MohdSaif2884/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MohdSaif2884/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2270-number-of-ways-to-split-array](https://github.com/MohdSaif2884/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2295-replace-elements-in-an-array](https://github.com/MohdSaif2884/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MohdSaif2884/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
