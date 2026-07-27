@@ -481,4 +481,8 @@
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MohdSaif2884/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/MohdSaif2884/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
