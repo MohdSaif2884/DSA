@@ -42,6 +42,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MohdSaif2884/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/MohdSaif2884/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/MohdSaif2884/DSA/tree/master/0063-unique-paths-ii) |
@@ -98,6 +99,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MohdSaif2884/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/MohdSaif2884/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0064-minimum-path-sum) |
@@ -189,6 +191,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MohdSaif2884/DSA/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
