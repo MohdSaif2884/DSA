@@ -489,4 +489,5 @@
 | [0595-big-countries](https://github.com/MohdSaif2884/DSA/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/MohdSaif2884/DSA/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/MohdSaif2884/DSA/tree/master/1683-invalid-tweets) |
+| [1757-recyclable-and-low-fat-products](https://github.com/MohdSaif2884/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
