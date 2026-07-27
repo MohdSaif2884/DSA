@@ -79,6 +79,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdSaif2884/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/MohdSaif2884/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2270-number-of-ways-to-split-array](https://github.com/MohdSaif2884/DSA/tree/master/2270-number-of-ways-to-split-array) |
+| [2485-find-the-pivot-integer](https://github.com/MohdSaif2884/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MohdSaif2884/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/MohdSaif2884/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -91,6 +92,7 @@
 | [0523-continuous-subarray-sum](https://github.com/MohdSaif2884/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdSaif2884/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdSaif2884/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2485-find-the-pivot-integer](https://github.com/MohdSaif2884/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MohdSaif2884/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MohdSaif2884/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MohdSaif2884/DSA/tree/master/3536-maximum-product-of-two-digits) |
