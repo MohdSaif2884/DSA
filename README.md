@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdSaif2884/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/MohdSaif2884/DSA/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/MohdSaif2884/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0740-delete-and-earn](https://github.com/MohdSaif2884/DSA/tree/master/0740-delete-and-earn) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -35,6 +36,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MohdSaif2884/DSA/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdSaif2884/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -102,6 +104,7 @@
 | [0079-word-search](https://github.com/MohdSaif2884/DSA/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/MohdSaif2884/DSA/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/MohdSaif2884/DSA/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/MohdSaif2884/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/MohdSaif2884/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/MohdSaif2884/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/MohdSaif2884/DSA/tree/master/0213-house-robber-ii) |
@@ -186,6 +189,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MohdSaif2884/DSA/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/MohdSaif2884/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -417,6 +421,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MohdSaif2884/DSA/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdSaif2884/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/MohdSaif2884/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MohdSaif2884/DSA/tree/master/0922-sort-array-by-parity-ii) |
