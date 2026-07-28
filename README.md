@@ -28,6 +28,7 @@
 | [0079-word-search](https://github.com/MohdSaif2884/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/MohdSaif2884/DSA/tree/master/0091-decode-ways) |
 | [0257-binary-tree-paths](https://github.com/MohdSaif2884/DSA/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MohdSaif2884/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0925-long-pressed-name](https://github.com/MohdSaif2884/DSA/tree/master/0925-long-pressed-name) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/MohdSaif2884/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdSaif2884/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -457,6 +458,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/MohdSaif2884/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/MohdSaif2884/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MohdSaif2884/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/MohdSaif2884/DSA/tree/master/0925-long-pressed-name) |
