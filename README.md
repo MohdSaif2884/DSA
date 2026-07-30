@@ -18,6 +18,7 @@
 | [1695-maximum-erasure-value](https://github.com/MohdSaif2884/DSA/tree/master/1695-maximum-erasure-value) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MohdSaif2884/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2295-replace-elements-in-an-array](https://github.com/MohdSaif2884/DSA/tree/master/2295-replace-elements-in-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/MohdSaif2884/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/MohdSaif2884/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdSaif2884/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -160,6 +161,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/MohdSaif2884/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2295-replace-elements-in-an-array](https://github.com/MohdSaif2884/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MohdSaif2884/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2465-number-of-distinct-averages](https://github.com/MohdSaif2884/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/MohdSaif2884/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdSaif2884/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -443,6 +445,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/MohdSaif2884/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohdSaif2884/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MohdSaif2884/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2465-number-of-distinct-averages](https://github.com/MohdSaif2884/DSA/tree/master/2465-number-of-distinct-averages) |
 | [3536-maximum-product-of-two-digits](https://github.com/MohdSaif2884/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search Tree
 |  |
@@ -465,6 +468,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/MohdSaif2884/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/MohdSaif2884/DSA/tree/master/0925-long-pressed-name) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MohdSaif2884/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2465-number-of-distinct-averages](https://github.com/MohdSaif2884/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/MohdSaif2884/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Memoization
 |  |
