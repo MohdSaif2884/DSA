@@ -66,6 +66,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/MohdSaif2884/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/MohdSaif2884/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1162-as-far-from-land-as-possible](https://github.com/MohdSaif2884/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MohdSaif2884/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -140,6 +141,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/MohdSaif2884/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdSaif2884/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0983-minimum-cost-for-tickets](https://github.com/MohdSaif2884/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [0997-find-the-town-judge](https://github.com/MohdSaif2884/DSA/tree/master/0997-find-the-town-judge) |
 | [1162-as-far-from-land-as-possible](https://github.com/MohdSaif2884/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MohdSaif2884/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
