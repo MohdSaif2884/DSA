@@ -65,6 +65,7 @@
 | [0542-01-matrix](https://github.com/MohdSaif2884/DSA/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/MohdSaif2884/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/MohdSaif2884/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/MohdSaif2884/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/MohdSaif2884/DSA/tree/master/0983-minimum-cost-for-tickets) |
@@ -102,6 +103,7 @@
 | [0279-perfect-squares](https://github.com/MohdSaif2884/DSA/tree/master/0279-perfect-squares) |
 | [0523-continuous-subarray-sum](https://github.com/MohdSaif2884/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdSaif2884/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/MohdSaif2884/DSA/tree/master/0877-stone-game) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MohdSaif2884/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdSaif2884/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/MohdSaif2884/DSA/tree/master/2485-find-the-pivot-integer) |
@@ -138,6 +140,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/MohdSaif2884/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0740-delete-and-earn](https://github.com/MohdSaif2884/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/MohdSaif2884/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/MohdSaif2884/DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/MohdSaif2884/DSA/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/MohdSaif2884/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -524,4 +527,8 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MohdSaif2884/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/MohdSaif2884/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MohdSaif2884/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MohdSaif2884/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
