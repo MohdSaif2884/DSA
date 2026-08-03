@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdSaif2884/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/MohdSaif2884/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MohdSaif2884/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/MohdSaif2884/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0740-delete-and-earn](https://github.com/MohdSaif2884/DSA/tree/master/0740-delete-and-earn) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohdSaif2884/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MohdSaif2884/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdSaif2884/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -130,6 +132,7 @@
 | [0200-number-of-islands](https://github.com/MohdSaif2884/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/MohdSaif2884/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/MohdSaif2884/DSA/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/MohdSaif2884/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/MohdSaif2884/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/MohdSaif2884/DSA/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/MohdSaif2884/DSA/tree/master/0518-coin-change-ii) |
@@ -219,6 +222,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MohdSaif2884/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MohdSaif2884/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/MohdSaif2884/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -430,6 +434,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MohdSaif2884/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohdSaif2884/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/MohdSaif2884/DSA/tree/master/1514-path-with-maximum-probability) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -454,6 +459,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohdSaif2884/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MohdSaif2884/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdSaif2884/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/MohdSaif2884/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MohdSaif2884/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -531,4 +537,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/MohdSaif2884/DSA/tree/master/0877-stone-game) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MohdSaif2884/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MohdSaif2884/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
