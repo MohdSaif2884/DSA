@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdSaif2884/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/MohdSaif2884/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/MohdSaif2884/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MohdSaif2884/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/MohdSaif2884/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0740-delete-and-earn](https://github.com/MohdSaif2884/DSA/tree/master/0740-delete-and-earn) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohdSaif2884/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/MohdSaif2884/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MohdSaif2884/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdSaif2884/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -131,6 +133,7 @@
 | [0198-house-robber](https://github.com/MohdSaif2884/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/MohdSaif2884/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/MohdSaif2884/DSA/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/MohdSaif2884/DSA/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/MohdSaif2884/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/MohdSaif2884/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/MohdSaif2884/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -459,6 +462,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohdSaif2884/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/MohdSaif2884/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MohdSaif2884/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdSaif2884/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/MohdSaif2884/DSA/tree/master/0905-sort-array-by-parity) |
@@ -545,4 +549,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MohdSaif2884/DSA/tree/master/0347-top-k-frequent-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/MohdSaif2884/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
