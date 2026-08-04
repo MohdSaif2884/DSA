@@ -24,6 +24,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/MohdSaif2884/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2965-find-missing-and-repeated-values](https://github.com/MohdSaif2884/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdSaif2884/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3731-find-missing-elements](https://github.com/MohdSaif2884/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/MohdSaif2884/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -189,6 +190,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MohdSaif2884/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MohdSaif2884/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3620-network-recovery-pathways](https://github.com/MohdSaif2884/DSA/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/MohdSaif2884/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/MohdSaif2884/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
@@ -472,6 +474,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MohdSaif2884/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2465-number-of-distinct-averages](https://github.com/MohdSaif2884/DSA/tree/master/2465-number-of-distinct-averages) |
 | [3536-maximum-product-of-two-digits](https://github.com/MohdSaif2884/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/MohdSaif2884/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
