@@ -559,4 +559,12 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/MohdSaif2884/DSA/tree/master/0229-majority-element-ii) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MohdSaif2884/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MohdSaif2884/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
