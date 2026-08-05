@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdSaif2884/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/MohdSaif2884/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MohdSaif2884/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MohdSaif2884/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MohdSaif2884/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -129,6 +130,7 @@
 | [0064-minimum-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/MohdSaif2884/DSA/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/MohdSaif2884/DSA/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/MohdSaif2884/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MohdSaif2884/DSA/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/MohdSaif2884/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/MohdSaif2884/DSA/tree/master/0198-house-robber) |
@@ -333,6 +335,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MohdSaif2884/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MohdSaif2884/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MohdSaif2884/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/MohdSaif2884/DSA/tree/master/0695-max-area-of-island) |
