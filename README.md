@@ -115,6 +115,7 @@
 | [2485-find-the-pivot-integer](https://github.com/MohdSaif2884/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/MohdSaif2884/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohdSaif2884/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MohdSaif2884/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MohdSaif2884/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MohdSaif2884/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MohdSaif2884/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -374,6 +375,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/MohdSaif2884/DSA/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdSaif2884/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MohdSaif2884/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Tree
 |  |
 | ------- |
