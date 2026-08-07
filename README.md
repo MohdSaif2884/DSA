@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdSaif2884/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/MohdSaif2884/DSA/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/MohdSaif2884/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/MohdSaif2884/DSA/tree/master/0091-decode-ways) |
 | [0257-binary-tree-paths](https://github.com/MohdSaif2884/DSA/tree/master/0257-binary-tree-paths) |
@@ -125,6 +126,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MohdSaif2884/DSA/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MohdSaif2884/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/MohdSaif2884/DSA/tree/master/0063-unique-paths-ii) |
@@ -570,4 +572,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/MohdSaif2884/DSA/tree/master/0877-stone-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MohdSaif2884/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
