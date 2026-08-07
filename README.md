@@ -37,6 +37,7 @@
 | [0091-decode-ways](https://github.com/MohdSaif2884/DSA/tree/master/0091-decode-ways) |
 | [0257-binary-tree-paths](https://github.com/MohdSaif2884/DSA/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohdSaif2884/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0796-rotate-string](https://github.com/MohdSaif2884/DSA/tree/master/0796-rotate-string) |
 | [0925-long-pressed-name](https://github.com/MohdSaif2884/DSA/tree/master/0925-long-pressed-name) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/MohdSaif2884/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdSaif2884/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -576,4 +577,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MohdSaif2884/DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/MohdSaif2884/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
