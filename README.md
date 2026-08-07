@@ -142,6 +142,7 @@
 | [0200-number-of-islands](https://github.com/MohdSaif2884/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/MohdSaif2884/DSA/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/MohdSaif2884/DSA/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/MohdSaif2884/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/MohdSaif2884/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/MohdSaif2884/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/MohdSaif2884/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -442,6 +443,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohdSaif2884/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/MohdSaif2884/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/MohdSaif2884/DSA/tree/master/3620-network-recovery-pathways) |
@@ -501,6 +503,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohdSaif2884/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/MohdSaif2884/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohdSaif2884/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/MohdSaif2884/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MohdSaif2884/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -527,6 +530,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohdSaif2884/DSA/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MohdSaif2884/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Database
 |  |
@@ -587,4 +591,12 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohdSaif2884/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohdSaif2884/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohdSaif2884/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
