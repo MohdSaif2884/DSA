@@ -25,6 +25,7 @@
 | [2465-number-of-distinct-averages](https://github.com/MohdSaif2884/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/MohdSaif2884/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2965-find-missing-and-repeated-values](https://github.com/MohdSaif2884/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MohdSaif2884/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdSaif2884/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3731-find-missing-elements](https://github.com/MohdSaif2884/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -191,6 +192,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/MohdSaif2884/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/MohdSaif2884/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MohdSaif2884/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdSaif2884/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3151-special-array-i](https://github.com/MohdSaif2884/DSA/tree/master/3151-special-array-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MohdSaif2884/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -484,6 +486,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohdSaif2884/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MohdSaif2884/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2465-number-of-distinct-averages](https://github.com/MohdSaif2884/DSA/tree/master/2465-number-of-distinct-averages) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MohdSaif2884/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/MohdSaif2884/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/MohdSaif2884/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search Tree
