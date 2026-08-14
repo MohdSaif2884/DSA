@@ -28,6 +28,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/MohdSaif2884/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MohdSaif2884/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MohdSaif2884/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MohdSaif2884/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/MohdSaif2884/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdSaif2884/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/MohdSaif2884/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -48,6 +49,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/MohdSaif2884/DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdSaif2884/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohdSaif2884/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MohdSaif2884/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
 | ------- |
@@ -445,6 +447,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdSaif2884/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/MohdSaif2884/DSA/tree/master/1695-maximum-erasure-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohdSaif2884/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MohdSaif2884/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
