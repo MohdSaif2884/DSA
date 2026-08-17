@@ -44,6 +44,7 @@
 | [0796-rotate-string](https://github.com/MohdSaif2884/DSA/tree/master/0796-rotate-string) |
 | [0925-long-pressed-name](https://github.com/MohdSaif2884/DSA/tree/master/0925-long-pressed-name) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/MohdSaif2884/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1143-longest-common-subsequence](https://github.com/MohdSaif2884/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdSaif2884/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdSaif2884/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/MohdSaif2884/DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -82,6 +83,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/MohdSaif2884/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [1143-longest-common-subsequence](https://github.com/MohdSaif2884/DSA/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/MohdSaif2884/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MohdSaif2884/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -608,4 +610,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MohdSaif2884/DSA/tree/master/0287-find-the-duplicate-number) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/MohdSaif2884/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
