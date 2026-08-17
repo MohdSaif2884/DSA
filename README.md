@@ -41,6 +41,7 @@
 | [0091-decode-ways](https://github.com/MohdSaif2884/DSA/tree/master/0091-decode-ways) |
 | [0257-binary-tree-paths](https://github.com/MohdSaif2884/DSA/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohdSaif2884/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/MohdSaif2884/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/MohdSaif2884/DSA/tree/master/0796-rotate-string) |
 | [0925-long-pressed-name](https://github.com/MohdSaif2884/DSA/tree/master/0925-long-pressed-name) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/MohdSaif2884/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -75,6 +76,7 @@
 | [0279-perfect-squares](https://github.com/MohdSaif2884/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/MohdSaif2884/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MohdSaif2884/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/MohdSaif2884/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/MohdSaif2884/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/MohdSaif2884/DSA/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/MohdSaif2884/DSA/tree/master/0740-delete-and-earn) |
