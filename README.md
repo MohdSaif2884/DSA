@@ -47,6 +47,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/MohdSaif2884/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1143-longest-common-subsequence](https://github.com/MohdSaif2884/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdSaif2884/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MohdSaif2884/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdSaif2884/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/MohdSaif2884/DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdSaif2884/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -88,6 +89,7 @@
 | [1143-longest-common-subsequence](https://github.com/MohdSaif2884/DSA/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/MohdSaif2884/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MohdSaif2884/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MohdSaif2884/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MohdSaif2884/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/MohdSaif2884/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MohdSaif2884/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
