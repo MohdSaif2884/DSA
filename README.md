@@ -46,6 +46,7 @@
 | [0796-rotate-string](https://github.com/MohdSaif2884/DSA/tree/master/0796-rotate-string) |
 | [0925-long-pressed-name](https://github.com/MohdSaif2884/DSA/tree/master/0925-long-pressed-name) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/MohdSaif2884/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1092-shortest-common-supersequence](https://github.com/MohdSaif2884/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/MohdSaif2884/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdSaif2884/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MohdSaif2884/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -88,6 +89,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/MohdSaif2884/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/MohdSaif2884/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [1092-shortest-common-supersequence](https://github.com/MohdSaif2884/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/MohdSaif2884/DSA/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/MohdSaif2884/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MohdSaif2884/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -620,5 +622,6 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/MohdSaif2884/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/MohdSaif2884/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/MohdSaif2884/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
