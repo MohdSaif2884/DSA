@@ -39,6 +39,7 @@
 | [0014-longest-common-prefix](https://github.com/MohdSaif2884/DSA/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/MohdSaif2884/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/MohdSaif2884/DSA/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/MohdSaif2884/DSA/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/MohdSaif2884/DSA/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohdSaif2884/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/MohdSaif2884/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -73,6 +74,7 @@
 | [0064-minimum-path-sum](https://github.com/MohdSaif2884/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/MohdSaif2884/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/MohdSaif2884/DSA/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/MohdSaif2884/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/MohdSaif2884/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/MohdSaif2884/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MohdSaif2884/DSA/tree/master/0213-house-robber-ii) |
